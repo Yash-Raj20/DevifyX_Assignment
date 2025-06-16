@@ -1,7 +1,7 @@
 {
   "name": "frontend",
   "version": "0.1.0",
-  "homepage": "https://github.com/Yash-Raj20/DevifyX_Assignment.git",
+  "homepage": "https://yash-raj20.github.io/DevifyX_Assignment/",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
