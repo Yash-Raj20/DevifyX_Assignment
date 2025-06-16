@@ -1,4 +1,4 @@
-export const generateMockData = (count = 100) => {
+export const generateMockData = (count = 1000) => {
   const data = [];
   const titles = [
     "Road Repair",
