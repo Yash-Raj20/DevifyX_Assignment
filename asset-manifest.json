@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Yash-Raj20/DevifyX_Assignment.git/static/css/main.3932b873.css",
+    "main.js": "/Yash-Raj20/DevifyX_Assignment.git/static/js/main.493330bd.js",
+    "index.html": "/Yash-Raj20/DevifyX_Assignment.git/index.html",
+    "main.3932b873.css.map": "/Yash-Raj20/DevifyX_Assignment.git/static/css/main.3932b873.css.map",
+    "main.493330bd.js.map": "/Yash-Raj20/DevifyX_Assignment.git/static/js/main.493330bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3932b873.css",
+    "static/js/main.493330bd.js"
+  ]
+}
